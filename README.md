@@ -1,9 +1,20 @@
 # 💫About Me :
-## 🔭  I'm currently working on React, Nextjs, Go, Nodejs, Typescript, Javascript, Cybersecurity, Python, Docker
+## 🔭  Allow me to introduce myself, 
+I am Khalid, a proud Moroccan full-stack developer. Over the course of 4 years, I have dedicated myself to continuous learning and honing my skills in this field. My true passion lies in crafting innovative and user-friendly web applications that leave a lasting impression.
 
-## 👓 I'm looking to collaborate on cybersecurity, military grade projects and fun
+When it comes to frontend development, I thrive on leveraging technologies like React, CSS, SASS, styled-components, and Material UI to bring captivating designs to life. As for the backend, I am well-versed in the realms of Node.js, Express, MongoDB, and MySQL, enabling me to build robust and efficient systems. I am always eager to expand my knowledge and embrace emerging technologies, as I believe in the power of constant growth.
 
-## 🌱 I'm currently learning AI and neural engines with ML and scripting for automation.
+Allow me to share some of my noteworthy achievements. I have been certified in JAVA data structures by Duke Online University. Additionally, I hold a certificate in React Native from META, and I have even been recognized by Google for my expertise in digital marketing and Google AdWords.
+
+Throughout my journey, I have embarked on two personal projects that truly demonstrate my skills as a full-stack developer. The first project involved developing a comprehensive multi-online stores platform from scratch, utilizing Laravel PHP and MySQL as the foundation. I meticulously deployed this web application on my local machine, expertly configured with Linux Apache2 and MySQL DB. The result was a feature-rich experience for users, empowering them to create stores, manage products, design sales pages, connect custom domains, incorporate various payment methods, and customize the overall theme.
+
+The second project was born out of my desire to assist my Facebook community, which focuses on helping individuals facing computer-related issues. Realizing the immense potential of AI, I conceptualized and brought to life a full-stack application called 'Elhassob,' utilizing the powerful MERN stack (React, Express, MongoDB) to swiftly address community queries and provide instant solutions sourced from the vast expanse of the internet. This dynamic web application allows users to create accounts, post, delete, and provide detailed descriptions of their issues using a full-text editor, and even communicate with fellow community members. It is my pride and joy, and it can be found at the domain name elhassob.com.
+
+In addition to my technical skills, I possess a range of competencies that greatly contribute to successful project execution. I excel in designing captivating user interfaces and user experiences, utilizing tools such as Figma, Sketch, and Adobe XD. I have managed software development projects from inception to completion, leveraging agile methodologies and employing project management tools like Jira and Trello. Moreover, I possess exceptional communication skills, enabling me to effortlessly convey complex technical concepts to both technical and non-technical audiences. As a team player, I thrive in collaborative environments, fostering strong relationships and working together towards shared objectives.
+
+Fueling my dedication to this field is an insatiable appetite for knowledge. I am an avid reader, constantly exploring books and articles on software development. Attending conferences and meetups is a regular part of my journey, as I am always eager to learn about the latest technologies. Additionally, I actively contribute to open source projects, giving back to the community that has nurtured my growth. Above all, I seek new challenges and opportunities to expand my horizons, continuously striving for personal and professional development.
+
+Driven by a strong work ethic and a results-oriented mindset, I am confident in my ability to make a significant impact within your esteemed team. Currently, my focus lies on React, Next.js, Go, Node.js, Typescript, Javascript, Cybersecurity, Python, and Docker. I am actively seeking collaborations in the realms of cybersecurity, military-grade projects, and projects that are simply
 
 ## 🎙 Ask me about anything, i'll be glad to have a conversation.
 
